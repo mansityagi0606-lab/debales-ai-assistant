@@ -1,0 +1,11 @@
+langchain
+langgraph
+faiss-cpu
+beautifulsoup4
+requests
+python-dotenv
+tqdm
+serpapi
+langchain-community
+langchain-core
+langchain-groq
